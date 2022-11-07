@@ -1,0 +1,165 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+.top {
+  background-image: linear-gradient(rgba(0, 89, 255, 0.082), white);
+}
+.healthy-food {
+  background-color: rgba(163, 163, 163, 0.178);
+  width: 150px;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-top: 3px;
+  height: 30px;
+}
+.text {
+  font-weight: 1000;
+}
+.red-text {
+  display: inline;
+  color: rgb(0, 195, 255);
+}
+.get-started-btn {
+  background-color: rgb(0, 195, 255);
+  color: white;
+}
+#right-section {
+  background-image: url("./bg.jpg");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  margin-top: 25px;
+}
+.food {
+  width: 170px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(134, 134, 134, 0.315);
+  padding-top: 7px;
+  padding-left: 7px;
+  display: flex;
+  margin-top: 50px;
+}
+.pizza {
+  width: 50px;
+  height: 37px;
+  border-radius: 10px;
+}
+.five-star {
+  width: 20px;
+  margin-left: 7px;
+  margin-top: -50px;
+}
+.message {
+  width: 170px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(134, 134, 134, 0.315);
+  padding-top: 2px;
+  padding-left: 2px;
+  display: flex;
+  margin-left: 350px;
+  margin-top: -10px;
+}
+p {
+  font-weight: lighter;
+}
+.new-message {
+  font-size: 10px;
+  margin-left: 8px;
+  margin-top: -15px;
+}
+.regular-customers {
+  width: 170px;
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(134, 134, 134, 0.315);
+  padding-top: 2px;
+  padding-left: 2px;
+
+  margin-top: 120px;
+  margin-left: -50px;
+}
+.persons {
+  display: flex;
+}
+.single-person {
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+  box-shadow: 0px 0px 10px rgba(117, 117, 117, 0.651);
+}
+.img-1 {
+  margin-left: 20px;
+}
+.img-2 {
+  margin-left: -10px;
+}
+.star {
+  width: 200px;
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(134, 134, 134, 0.315);
+  padding-top: 2px;
+  padding-left: 2px;
+  margin-left: 200px;
+}
+.star-content{
+    font-size: 10px;
+    margin: 10px;
+}
+.starimages{
+    display: flex;
+}
+.singlestar{
+    width: 10px;
+    margin-left: 10px;
+}
+.singlestar-1{
+margin-left: 50px;
+
+}
+.trend-head{
+    margin-left: 35px;
+}.trending-food{
+    height: 110px;
+    width: 150px;
+}
+.trending-food-div{
+    margin-left: 85px;
+    display: flex;
+    padding-top: 25px;
+}
+.trending-food-div1{
+    margin-left: 55px;
+    display: flex;
+    padding-top: 25px;
+}
+.trending-food-text{
+    font-size: 10px;
+    margin-left: 10px;
+}
+h5{
+    font-size: 13px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+.footer-left{
+    background-image: url('./Picsart_22-11-07_13-46-28-803.jpg');
+    background-size: 500px;
+    background-repeat: no-repeat;
+}
+.right-sub{
+    padding-left: 50px;
+    padding-top: 100px;
+    width: 100%;
+    height: 500px;
+}
+.easyorder{
+    color: white;
+    background-color: rgb(0, 195, 255);
+    width: 300px;
+}
